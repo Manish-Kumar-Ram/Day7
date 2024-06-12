@@ -1,0 +1,631 @@
+[
+    {
+      "code": "RST001",
+      "name": "Tasty Bites",
+      "address": "123 Main Street, Cityville",
+      "rating": 5,
+      "cuisine": "Italian"
+    },
+    {
+      "code": "RST002",
+      "name": "Spice Palace",
+      "address": "456 Oak Avenue, Townsville",
+      "rating": 5,
+      "cuisine": "Indian"
+    },
+    {
+      "code": "RST003",
+      "name": "Sushi Haven",
+      "address": "789 Pine Road, Villagetown",
+      "rating": 5,
+      "cuisine": "Japanese"
+    },
+    {
+      "code": "RST004",
+      "name": "Grill & Chill",
+      "address": "101 Cedar Lane, Hamlet City",
+      "rating": 4,
+      "cuisine": "American"
+    },
+    {
+      "code": "RST005",
+      "name": "Mediterranean Delight",
+      "address": "234 Elm Street, Suburbia",
+      "rating": 4,
+      "cuisine": "Mediterranean"
+    },
+    {
+      "code": "RST006",
+      "name": "Casa de Tapas",
+      "address": "567 Maple Blvd, Downtown",
+      "rating": 4,
+      "cuisine": "Spanish"
+    },
+    {
+      "code": "RST007",
+      "name": "Thai Orchid",
+      "address": "890 Pine Lane, Uptown",
+      "rating": 3,
+      "cuisine": "Thai"
+    },
+    {
+      "code": "RST008",
+      "name": "Burger Bliss",
+      "address": "111 Cedar Avenue, Riverside",
+      "rating": 3,
+      "cuisine": "Burgers"
+    },
+    {
+      "code": "RST009",
+      "name": "La Pizzeria",
+      "address": "222 Oak Street, Midtown",
+      "rating": 3,
+      "cuisine": "Pizza"
+    },
+    {
+      "code": "RST010",
+      "name": "Golden Wok",
+      "address": "333 Maple Road, Seaside",
+      "rating": 2,
+      "cuisine": "Chinese"
+    },
+    {
+      "code": "RST011",
+      "name": "Fusion Flavors",
+      "address": "444 Elm Lane, Lakeside",
+      "rating": 2,
+      "cuisine": "International"
+    },
+    {
+      "code": "RST012",
+      "name": "Green Garden",
+      "address": "555 Pine Avenue, Hilltop",
+      "rating": 2,
+      "cuisine": "Vegetarian"
+    },
+    {
+      "code": "RST013",
+      "name": "BBQ Junction",
+      "address": "666 Oak Road, Countryside",
+      "rating": 1,
+      "cuisine": "Barbecue"
+    },
+    {
+      "code": "RST014",
+      "name": "Pasta Paradise",
+      "address": "777 Elm Blvd, Beachfront",
+      "rating": 1,
+      "cuisine": "Italian"
+    },
+    {
+      "code": "RST015",
+      "name": "Wok N Roll",
+      "address": "888 Maple Lane, Skyline",
+      "rating": 1,
+      "cuisine": "Asian"
+    },
+    {
+      "code": "RST016",
+      "name": "Cafe Serenity",
+      "address": "999 Pine Street, Oasis",
+      "rating": 4,
+      "cuisine": "Café"
+    },
+    {
+      "code": "RST017",
+      "name": "Mexican Fiesta",
+      "address": "121 Cedar Road, Horizon",
+      "rating": 4,
+      "cuisine": "Mexican"
+    },
+    {
+      "code": "RST018",
+      "name": "Deli Delight",
+      "address": "232 Oak Lane, Sunrise",
+      "rating": 4,
+      "cuisine": "Deli"
+    },
+    {
+      "code": "RST019",
+      "name": "Seafood Sensation",
+      "address": "343 Elm Avenue, Twilight",
+      "rating": 3,
+      "cuisine": "Seafood"
+    },
+    {
+      "code": "RST020",
+      "name": "Tandoori Times",
+      "address": "454 Maple Street, Sunset",
+      "rating": 3,
+      "cuisine": "Indian"
+    },
+    {
+      "code": "RST021",
+      "name": "Noodle Nirvana",
+      "address": "565 Pine Blvd, Moonlight",
+      "rating": 3,
+      "cuisine": "Asian"
+    },
+    {
+      "code": "RST022",
+      "name": "Greek Delights",
+      "address": "676 Oak Avenue, Starlight",
+      "rating": 2,
+      "cuisine": "Greek"
+    },
+    {
+      "code": "RST023",
+      "name": "Breakfast Bistro",
+      "address": "787 Elm Lane, Sunrise",
+      "rating": 2,
+      "cuisine": "Breakfast"
+    },
+    {
+      "code": "RST024",
+      "name": "Veggie Villa",
+      "address": "898 Maple Road, Mountainview",
+      "rating": 2,
+      "cuisine": "Vegetarian"
+    },
+    {
+      "code": "RST025",
+      "name": "Cajun Corner",
+      "address": "909 Pine Street, Lakeside",
+      "rating": 1,
+      "cuisine": "Cajun"
+    },
+    {
+      "code": "RST026",
+      "name": "Rustic Retreat",
+      "address": "121 Cedar Avenue, Riverside",
+      "rating": 1,
+      "cuisine": "American"
+    },
+    {
+      "code": "RST027",
+      "name": "Salsa Street",
+      "address": "232 Oak Lane, Midtown",
+      "rating": 1,
+      "cuisine": "Mexican"
+    },
+    {
+      "code": "RST028",
+      "name": "Sizzler's Delight",
+      "address": "343 Elm Avenue, Uptown",
+      "rating": 5,
+      "cuisine": "Steakhouse"
+    },
+    {
+      "code": "RST029",
+      "name": "Choco Heaven",
+      "address": "454 Maple Street, Downtown",
+      "rating": 5,
+      "cuisine": "Desserts"
+    },
+    {
+      "code": "RST030",
+      "name": "Peking Palace",
+      "address": "565 Pine Blvd, Countryside",
+      "rating": 5,
+      "cuisine": "Chinese"
+    },
+    {
+      "code": "RST031",
+      "name": "Fresh Catch",
+      "address": "676 Oak Avenue, Seaside",
+      "rating": 4,
+      "cuisine": "Seafood"
+    },
+    {
+      "code": "RST032",
+      "name": "Bread Basket",
+      "address": "787 Elm Lane, Hilltop",
+      "rating": 4,
+      "cuisine": "Bakery"
+    },
+    {
+      "code": "RST033",
+      "name": "Steakhouse Supreme",
+      "address": "898 Maple Road, Suburbia",
+      "rating": 4,
+      "cuisine": "Steakhouse"
+    },
+    {
+      "code": "RST034",
+      "name": "Crispy Crust",
+      "address": "909 Pine Street, Beachfront",
+      "rating": 3,
+      "cuisine": "Pizza"
+    },
+    {
+      "code": "RST035",
+      "name": "Flavor Fusion",
+      "address": "101 Cedar Lane, Skyline",
+      "rating": 3,
+      "cuisine": "International"
+    },
+    {
+      "code": "RST036",
+      "name": "Sweet Retreat",
+      "address": "222 Oak Street, Oasis",
+      "rating": 3,
+      "cuisine": "Desserts"
+    },
+    {
+      "code": "RST037",
+      "name": "Cafe Elegance",
+      "address": "333 Maple Road, Twilight",
+      "rating": 2,
+      "cuisine": "Café"
+    },
+    {
+      "code": "RST038",
+      "name": "Spicy Delights",
+      "address": "444 Elm Lane, Starlight",
+      "rating": 2,
+      "cuisine": "Spicy"
+    },
+    {
+      "code": "RST039",
+      "name": "Noodle Nation",
+      "address": "555 Pine Avenue, Moonlight",
+      "rating": 2,
+      "cuisine": "Asian"
+    },
+    {
+      "code": "RST040",
+      "name": "Mango Tango",
+      "address": "666 Oak Road, Mountainview",
+      "rating": 1,
+      "cuisine": "Tropical"
+    },
+    {
+      "code": "RST041",
+      "name": "Bistro Bliss",
+      "address": "777 Elm Blvd, Riverside",
+      "rating": 1,
+      "cuisine": "Bistro"
+    },
+    {
+      "code": "RST042",
+      "name": "Lobster Lagoon",
+      "address": "888 Maple Lane, Hilltop",
+      "rating": 1,
+      "cuisine": "Seafood"
+    },
+    {
+      "code": "RST043",
+      "name": "Pan-Asian Palace",
+      "address": "999 Pine Street, Seaside",
+      "rating": 5,
+      "cuisine": "Pan-Asian"
+    },
+    {
+      "code": "RST044",
+      "name": "Sizzling Sausages",
+      "address": "121 Cedar Road, Uptown",
+      "rating": 5,
+      "cuisine": "Sausages"
+    },
+    {
+      "code": "RST045",
+      "name": "Gourmet Galaxy",
+      "address": "232 Oak Lane, Downtown",
+      "rating": 5,
+      "cuisine": "Gourmet"
+    },{
+      "code": "RST001",
+      "name": "Tasty Bites",
+      "address": "123 Main Street, Cityville",
+      "rating": 5,
+      "cuisine": "Italian"
+    },
+    {
+      "code": "RST002",
+      "name": "Spice Palace",
+      "address": "456 Oak Avenue, Townsville",
+      "rating": 5,
+      "cuisine": "Indian"
+    },
+    {
+      "code": "RST003",
+      "name": "Sushi Haven",
+      "address": "789 Pine Road, Villagetown",
+      "rating": 5,
+      "cuisine": "Japanese"
+    },
+    {
+      "code": "RST004",
+      "name": "Grill & Chill",
+      "address": "101 Cedar Lane, Hamlet City",
+      "rating": 4,
+      "cuisine": "American"
+    },
+    {
+      "code": "RST005",
+      "name": "Mediterranean Delight",
+      "address": "234 Elm Street, Suburbia",
+      "rating": 4,
+      "cuisine": "Mediterranean"
+    },
+    {
+      "code": "RST006",
+      "name": "Casa de Tapas",
+      "address": "567 Maple Blvd, Downtown",
+      "rating": 4,
+      "cuisine": "Spanish"
+    },
+    {
+      "code": "RST007",
+      "name": "Thai Orchid",
+      "address": "890 Pine Lane, Uptown",
+      "rating": 3,
+      "cuisine": "Thai"
+    },
+    {
+      "code": "RST008",
+      "name": "Burger Bliss",
+      "address": "111 Cedar Avenue, Riverside",
+      "rating": 3,
+      "cuisine": "Burgers"
+    },
+    {
+      "code": "RST009",
+      "name": "La Pizzeria",
+      "address": "222 Oak Street, Midtown",
+      "rating": 3,
+      "cuisine": "Pizza"
+    },
+    {
+      "code": "RST010",
+      "name": "Golden Wok",
+      "address": "333 Maple Road, Seaside",
+      "rating": 2,
+      "cuisine": "Chinese"
+    },
+    {
+      "code": "RST011",
+      "name": "Fusion Flavors",
+      "address": "444 Elm Lane, Lakeside",
+      "rating": 2,
+      "cuisine": "International"
+    },
+    {
+      "code": "RST012",
+      "name": "Green Garden",
+      "address": "555 Pine Avenue, Hilltop",
+      "rating": 2,
+      "cuisine": "Vegetarian"
+    },
+    {
+      "code": "RST013",
+      "name": "BBQ Junction",
+      "address": "666 Oak Road, Countryside",
+      "rating": 1,
+      "cuisine": "Barbecue"
+    },
+    {
+      "code": "RST014",
+      "name": "Pasta Paradise",
+      "address": "777 Elm Blvd, Beachfront",
+      "rating": 1,
+      "cuisine": "Italian"
+    },
+    {
+      "code": "RST015",
+      "name": "Wok N Roll",
+      "address": "888 Maple Lane, Skyline",
+      "rating": 1,
+      "cuisine": "Asian"
+    },
+    {
+      "code": "RST016",
+      "name": "Cafe Serenity",
+      "address": "999 Pine Street, Oasis",
+      "rating": 4,
+      "cuisine": "Café"
+    },
+    {
+      "code": "RST017",
+      "name": "Mexican Fiesta",
+      "address": "121 Cedar Road, Horizon",
+      "rating": 4,
+      "cuisine": "Mexican"
+    },
+    {
+      "code": "RST018",
+      "name": "Deli Delight",
+      "address": "232 Oak Lane, Sunrise",
+      "rating": 4,
+      "cuisine": "Deli"
+    },
+    {
+      "code": "RST019",
+      "name": "Seafood Sensation",
+      "address": "343 Elm Avenue, Twilight",
+      "rating": 3,
+      "cuisine": "Seafood"
+    },
+    {
+      "code": "RST020",
+      "name": "Tandoori Times",
+      "address": "454 Maple Street, Sunset",
+      "rating": 3,
+      "cuisine": "Indian"
+    },
+    {
+      "code": "RST021",
+      "name": "Noodle Nirvana",
+      "address": "565 Pine Blvd, Moonlight",
+      "rating": 3,
+      "cuisine": "Asian"
+    },
+    {
+      "code": "RST022",
+      "name": "Greek Delights",
+      "address": "676 Oak Avenue, Starlight",
+      "rating": 2,
+      "cuisine": "Greek"
+    },
+    {
+      "code": "RST023",
+      "name": "Breakfast Bistro",
+      "address": "787 Elm Lane, Sunrise",
+      "rating": 2,
+      "cuisine": "Breakfast"
+    },
+    {
+      "code": "RST024",
+      "name": "Veggie Villa",
+      "address": "898 Maple Road, Mountainview",
+      "rating": 2,
+      "cuisine": "Vegetarian"
+    },
+    {
+      "code": "RST025",
+      "name": "Cajun Corner",
+      "address": "909 Pine Street, Lakeside",
+      "rating": 1,
+      "cuisine": "Cajun"
+    },
+    {
+      "code": "RST026",
+      "name": "Rustic Retreat",
+      "address": "121 Cedar Avenue, Riverside",
+      "rating": 1,
+      "cuisine": "American"
+    },
+    {
+      "code": "RST027",
+      "name": "Salsa Street",
+      "address": "232 Oak Lane, Midtown",
+      "rating": 1,
+      "cuisine": "Mexican"
+    },
+    {
+      "code": "RST028",
+      "name": "Sizzler's Delight",
+      "address": "343 Elm Avenue, Uptown",
+      "rating": 5,
+      "cuisine": "Steakhouse"
+    },
+    {
+      "code": "RST029",
+      "name": "Choco Heaven",
+      "address": "454 Maple Street, Downtown",
+      "rating": 5,
+      "cuisine": "Desserts"
+    },
+    {
+      "code": "RST030",
+      "name": "Peking Palace",
+      "address": "565 Pine Blvd, Countryside",
+      "rating": 5,
+      "cuisine": "Chinese"
+    },
+    {
+      "code": "RST031",
+      "name": "Fresh Catch",
+      "address": "676 Oak Avenue, Seaside",
+      "rating": 4,
+      "cuisine": "Seafood"
+    },
+    {
+      "code": "RST032",
+      "name": "Bread Basket",
+      "address": "787 Elm Lane, Hilltop",
+      "rating": 4,
+      "cuisine": "Bakery"
+    },
+    {
+      "code": "RST033",
+      "name": "Steakhouse Supreme",
+      "address": "898 Maple Road, Suburbia",
+      "rating": 4,
+      "cuisine": "Steakhouse"
+    },
+    {
+      "code": "RST034",
+      "name": "Crispy Crust",
+      "address": "909 Pine Street, Beachfront",
+      "rating": 3,
+      "cuisine": "Pizza"
+    },
+    {
+      "code": "RST035",
+      "name": "Flavor Fusion",
+      "address": "101 Cedar Lane, Skyline",
+      "rating": 3,
+      "cuisine": "International"
+    },
+    {
+      "code": "RST036",
+      "name": "Sweet Retreat",
+      "address": "222 Oak Street, Oasis",
+      "rating": 3,
+      "cuisine": "Desserts"
+    },
+    {
+      "code": "RST037",
+      "name": "Cafe Elegance",
+      "address": "333 Maple Road, Twilight",
+      "rating": 2,
+      "cuisine": "Café"
+    },
+    {
+      "code": "RST038",
+      "name": "Spicy Delights",
+      "address": "444 Elm Lane, Starlight",
+      "rating": 2,
+      "cuisine": "Spicy"
+    },
+    {
+      "code": "RST039",
+      "name": "Noodle Nation",
+      "address": "555 Pine Avenue, Moonlight",
+      "rating": 2,
+      "cuisine": "Asian"
+    },
+    {
+      "code": "RST040",
+      "name": "Mango Tango",
+      "address": "666 Oak Road, Mountainview",
+      "rating": 1,
+      "cuisine": "Tropical"
+    },
+    {
+      "code": "RST041",
+      "name": "Bistro Bliss",
+      "address": "777 Elm Blvd, Riverside",
+      "rating": 1,
+      "cuisine": "Bistro"
+    },
+    {
+      "code": "RST042",
+      "name": "Lobster Lagoon",
+      "address": "888 Maple Lane, Hilltop",
+      "rating": 1,
+      "cuisine": "Seafood"
+    },
+    {
+      "code": "RST043",
+      "name": "Pan-Asian Palace",
+      "address": "999 Pine Street, Seaside",
+      "rating": 5,
+      "cuisine": "Pan-Asian"
+    },
+    {
+      "code": "RST044",
+      "name": "Sizzling Sausages",
+      "address": "121 Cedar Road, Uptown",
+      "rating": 5,
+      "cuisine": "Sausages"
+    },
+    {
+      "code": "RST045",
+      "name": "Gourmet Galaxy",
+      "address": "232 Oak Lane, Downtown",
+      "rating": 5,
+      "cuisine": "Gourmet"
+    }
+  ]

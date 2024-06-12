@@ -1,0 +1,172 @@
+/* .products{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 1.2rem;
+padding: 0;
+margin: 20px;
+list-style-type: none;
+
+}
+.product__single{
+  height: 350px;
+  padding: 20px;
+  background-color: rgb(220,220,220);
+  text-align: center;
+  cursor: pointer;
+  color: black;
+}
+.pagination{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  margin: 15px 0;
+}
+.pagination >span{
+  padding: 15px 20px ;
+  border: 1px solid gray;
+}
+.pagination_selected{
+ background-color: gray;
+}
+.pagination__disable{
+  opacity: 0;
+} */
+
+/* App.css */
+
+.container {
+  margin-top: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.search-filter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 24px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 4px;
+  
+}
+
+.search-filter input,
+.search-filter label {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  
+}
+.input-ser {
+margin: 20px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding-left: 24px;
+  padding-bottom: 36px;
+}
+
+.card {
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  overflow: hidden;
+}
+
+.card-header {
+  padding: 24px 16px;
+  margin-bottom: 28px;
+}
+
+.card-header h2 {
+  color: #333;
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.card-header .ratings {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.cuisine{
+  margin: 5px;
+}
+
+.card-header .ratings span {
+  font-size: 24px;
+  color: gold;
+}
+
+.card-body {
+  padding: 24px 16px;
+  color: #555;
+  font-size: 14px;
+}
+
+.card-body p {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.card-body svg {
+  fill: currentColor;
+  height: 1em;
+  width: 1em;
+}
+
+.card-footer {
+  padding: 24px 16px;
+  background-color: #f9f9f9;
+ 
+}
+
+.card-footer a {
+  color: blue;
+  text-decoration: none;
+}
+
+.card-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Add these styles to your CSS file (e.g., App.css) */
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.pagination li {
+  margin: 0 5px;
+}
+
+.pagination li a {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.pagination li.active a {
+  background-color: #007BFF;
+  color: white;
+  border-color: #007BFF;
+}
+
+.pagination li.disabled a {
+  color: #ccc;
+  cursor: not-allowed;
+}
