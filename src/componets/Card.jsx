@@ -1,4 +1,4 @@
-import "remixicon/fonts/remixicon.css";
+
 
 function Card({ name, address, ratings, cuisine, code }) {
   return (
